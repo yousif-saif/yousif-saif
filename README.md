@@ -1,18 +1,19 @@
 # 💫 About Me:
-I am a guy from iraq who loves programming, building projects<br>and learning new things and tech.
+I am a guy from iraq who loves programming, building projects<br>and learning new things. <br>
+I'm good at math. <br>
 I love gaming too 🙃
 
 Note: My YT channel is a gaming channel
 
 
-Experience: 
-  certificates:
+# Experience: <br>
+  - ## Certificates:
     - CS50x (Introduction to Computer Science) 2023 - online Harvard course
     - CS50w (Web Programming with Python and JavaScript) 2023 - online Harvard course
     - CS50AI (Introduction to Artificial Intelligence with Python) 2025 - online Harvard course
 
-  real world projects:
-    - Made Discord bots
+  - ## Real World Apps:
+    - Made and worked on Discord bots that went to production
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SASA_maxillo) 
