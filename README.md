@@ -4,6 +4,16 @@ I love gaming too 🙃
 
 Note: My YT channel is a gaming channel
 
+
+Experience: 
+  certificates:
+    - CS50x (Introduction to Computer Science) 2023 - online Harvard course
+    - CS50w (Web Programming with Python and JavaScript) 2023 - online Harvard course
+    - CS50AI (Introduction to Artificial Intelligence with Python) 2025 - online Harvard course
+
+  real world projects:
+    - Made Discord bots
+
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SASA_maxillo) 
 
