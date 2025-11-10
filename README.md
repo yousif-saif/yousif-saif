@@ -14,6 +14,7 @@ Note: My YT channel is a gaming channel
 
   - ## Real World Apps:
     - Made and worked on Discord bots that went to production
+    - Worked on multiple start-ups as both backend & frontend engineer (Dropify, Solace...)
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SASA_maxillo) 
