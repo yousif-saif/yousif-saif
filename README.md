@@ -7,11 +7,11 @@ Fluent in Arabic and English.
   - CS50w – Web Programming with Python & JavaScript (Harvard, 2023)
   - CS50AI – Introduction to Artificial Intelligence with Python (Harvard, 2025)
 
-## Experience
+## Experience 💼
   - Made and worked on Discord bots that went to production (2024-2025)
   - Worked with multiple startups as both backend & frontend engineer. (2025)
 
-## Skills & Interests
+## Skills & Interests 🛠️
   - Math & physics
   - Microcontrollers (Arduino UNO)
   - Gaming
