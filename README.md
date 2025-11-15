@@ -1,10 +1,6 @@
 # 💫 About Me:
 I am a guy from iraq who loves programming, building projects<br>and learning new things. <br>
-I'm good at math. <br>
-I love gaming too 🙃
-
-Note: My YT channel is a gaming channel
-
+I can speak and write in both Arabic and English.
 
 # Experience: <br>
   - ## Certificates:
@@ -15,6 +11,13 @@ Note: My YT channel is a gaming channel
   - ## Real World Apps:
     - Made and worked on Discord bots that went to production (2024-2025)
     - Worked on multiple start-ups as both backend & frontend engineer. (2025)
+
+# Hobbies:
+  - Math & physics
+  - Microcontrollers (Arduino UNO)
+  - Gaming
+  - Martial arts
+
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SASA_maxillo) 
