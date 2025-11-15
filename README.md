@@ -1,18 +1,17 @@
-# 💫 About Me:
-I am a guy from iraq who loves programming, building projects<br>and learning new things. <br>
-I can speak and write in both Arabic and English.
+# 💫 About Me
+I’m a developer from Iraq who enjoys building real-world projects and solving problems.
+Fluent in Arabic and English.
 
-# Experience: <br>
-  - ## Certificates:
-    - CS50x (Introduction to Computer Science) 2023 - online Harvard course
-    - CS50w (Web Programming with Python and JavaScript) 2023 - online Harvard course
-    - CS50AI (Introduction to Artificial Intelligence with Python) 2025 - online Harvard course
+## Certificates 🎓
+  - CS50x – Introduction to Computer Science (Harvard, 2023)
+  - CS50w – Web Programming with Python & JavaScript (Harvard, 2023)
+  - CS50AI – Introduction to Artificial Intelligence with Python (Harvard, 2025)
 
-  - ## Real World Apps:
-    - Made and worked on Discord bots that went to production (2024-2025)
-    - Worked on multiple start-ups as both backend & frontend engineer. (2025)
+## Experience
+  - Made and worked on Discord bots that went to production (2024-2025)
+  - Worked with multiple startups as both backend & frontend engineer. (2025)
 
-# Hobbies:
+# Skills & Interests
   - Math & physics
   - Microcontrollers (Arduino UNO)
   - Gaming
