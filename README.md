@@ -16,6 +16,7 @@ Fluent in Arabic and English.
   - Microcontrollers (Arduino UNO)
   - Gaming
   - Martial arts
+  - Aviation
 
 
 ## 🌐 Socials:
