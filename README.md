@@ -6,10 +6,17 @@ Fluent in Arabic and English.
   - CS50x – Introduction to Computer Science (Harvard, 2023)
   - CS50w – Web Programming with Python & JavaScript (Harvard, 2023)
   - CS50AI – Introduction to Artificial Intelligence with Python (Harvard, 2025)
-
+  
 ## Experience 💼
-  - Made and worked on Discord bots that went to production (2024-2025)
-  - Worked with multiple startups as both backend & frontend engineer. (2025)
+
+* **Full-Stack Developer** | *Startups & Client Projects* `(2025)`
+  * Built responsive UI components and frontend interfaces using **Next.js** and **React**.
+  * Developed custom payment utilities, including discount engines and affiliate tracking, using **Node.js**, **Express.js**, and the **Stripe API**.
+  * Designed and deployed a serverless patient management web app for a local clinic using **JavaScript** and **MongoDB Atlas** (direct client integration), handling 50+ active patient records.
+  
+* **Discord Bot Developer** `(2024 – 2025)`
+  * Built, configured, and deployed custom Discord bots serving live community servers.
+  * Implemented automated content moderation features (auto-filtering/word removal) and integrated new bot mechanics.
 
 ## Skills & Interests 🛠️
   - Math & physics
