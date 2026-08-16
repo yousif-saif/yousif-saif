@@ -1,5 +1,5 @@
 # 💫 About Me
-I’m a developer from Iraq
+I’m a developer from Iraq.
 <br/>
 I enjoy building real-world projects and solving problems.
 <br/>
