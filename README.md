@@ -1,5 +1,8 @@
 # 💫 About Me
-I’m a developer from Iraq who enjoys building real-world projects and solving problems.
+I’m a developer from Iraq
+<br/>
+I enjoy building real-world projects and solving problems.
+<br/>
 Fluent in Arabic and English.
 
 ## Certificates 🎓
